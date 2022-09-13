@@ -7,14 +7,15 @@ _**Features**_
 - Reduce internet consupmission.
 
 
-# Version
+_**Version**_
 
 - Version 22.9.12
 - Release date 2022/9/13
 
 
-# Contact
+_**Contact**_
+
 - mv.photolite@gmail.com
 
 
-All Rights Reserved for MVertical Team © 2022 mverticalteam@gmail.com
+_All Rights Reserved for MVertical Team © 2022 mverticalteam@gmail.com_
