@@ -1,6 +1,6 @@
 # Photo-Lite
 
-# Features
+- Features
 
 - An application used to compress and crop photos while retaining accuracy.
 - Provides storage spaces in the phone or cloud storage.
@@ -16,4 +16,5 @@
 # Contact
 - mv.photolite@gmail.com
 
-All Rights Reserved for MVertical Team © 2022 
+
+All Rights Reserved for MVertical Team © 2022 mverticalteam@gmail.com
