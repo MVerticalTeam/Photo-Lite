@@ -1,20 +1,17 @@
 # Photo-Lite
 
 _**Features**_
-
 - An application used to compress and crop photos while retaining accuracy.
 - Provides storage spaces in the phone or cloud storage.
 - Reduce internet consupmission.
 
 
 _**Version**_
-
 - Version 22.9.12
 - Release date 2022/9/13
 
 
 _**Contact**_
-
 - mv.photolite@gmail.com
 
 
