@@ -1,6 +1,6 @@
 # Photo-Lite
 
-* Features
+_**Features**_
 
 - An application used to compress and crop photos while retaining accuracy.
 - Provides storage spaces in the phone or cloud storage.
